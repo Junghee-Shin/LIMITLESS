@@ -1,0 +1,31 @@
+/* 전체TextField */
+
+
+.root{
+	-fx-background-color: #D5F3ED;
+	
+}
+
+
+
+
+
+.button {
+	-fx-background-color: #FCFBF9;
+	
+}
+
+
+
+
+.button:hover {
+	-fx-background-color: #F2ABBA;
+	
+}
+
+
+
+.button:pressed {
+	-fx-background-color: linear-gradient(yellow,#61A2b1);
+	
+}

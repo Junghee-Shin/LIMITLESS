@@ -1,0 +1,15 @@
+2019-06-04 12:25:24,978 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:133)     - ===========================
+2019-06-04 12:25:24,979 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:134)     - member01:[샷샤샤]님
+환영 합니다.
+2019-06-04 12:25:24,979 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:135)     - member01:jh
+2019-06-04 12:25:24,980 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:136)     - ===========================
+2019-06-04 12:26:24,307 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:133)     - ===========================
+2019-06-04 12:26:24,307 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:134)     - member01:[뫄뫄]님
+환영 합니다.
+2019-06-04 12:26:24,308 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:135)     - member01:limitless01
+2019-06-04 12:26:24,308 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:136)     - ===========================
+2019-06-04 12:38:55,105 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:133)     - ===========================
+2019-06-04 12:38:55,106 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:134)     - member01:[뫄뫄]님
+환영 합니다.
+2019-06-04 12:38:55,107 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:135)     - member01:limitless01
+2019-06-04 12:38:55,107 DEBUG [JavaFX Application Thread] domain.LoginController (LoginController.java:136)     - ===========================

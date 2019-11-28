@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="681.0" 
+xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" 
+fx:controller="com.limitless.recipedetailinfo.RecipeDetailFXController">
+   <children>
+      
+      
+      
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="32.0" layoutY="298.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/recook1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="32.0" layoutY="353.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/recook2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="32.0" layoutY="406.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/recook3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="32.0" layoutY="459.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/recook4.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="36.0" layoutY="263.0" text="요리 방법" />
+      
+      
+      
+      <Label fx:id="reName" layoutX="323.0" layoutY="122.0" text="reName">
+         <font>
+            <Font size="16.0" />
+         </font></Label><!--reName-->
+      <!--reImage-->
+      <ImageView fx:id="reImage" fitHeight="120.0" fitWidth="160.0" layoutX="143.0" layoutY="72.0" pickOnBounds="true" preserveRatio="true">
+     	 <image>
+            <Image url="@image/recook1.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="reFood" layoutX="102.0" layoutY="219.0" text="reFood" /><!--reFood-->
+      <Label fx:id="reCook01" layoutX="73.0" layoutY="306.0" text="recook1" /><!--recook1-->
+      <Label fx:id="reCook02" layoutX="73.0" layoutY="361.0" text="recook2" /><!--recook2-->
+      <Label fx:id="reCook03" layoutX="73.0" layoutY="414.0" text="recook3" /><!--recook3-->
+      <Label fx:id="reCook04" layoutX="73.0" layoutY="467.0" text="recook4" /><!--recook4-->
+      <Button fx:id="backBtn" layoutX="307.0" layoutY="534.0" mnemonicParsing="false" text="뒤로 가기" />
+      <Label layoutX="36.0" layoutY="219.0" text="재료" />
+      <Button fx:id="homeBtn" layoutX="13.0" layoutY="15.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0">
+         <graphic>
+            
+            <ImageView fitHeight="150.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@image/home.png" />
+               </image>
+            </ImageView>
+      </graphic></Button>
+     
+     
+     
+     
+      <Button fx:id="Buttonrecipebookmark" layoutX="616.0" layoutY="15.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0">
+         <graphic>
+            <ImageView fx:id="starImageView" fitHeight="35.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      
+   </children>
+</AnchorPane>

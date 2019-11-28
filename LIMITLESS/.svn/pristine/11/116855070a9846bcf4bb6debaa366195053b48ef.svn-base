@@ -1,0 +1,52 @@
+/* ÀüÃ¼TextField */
+
+
+.root{
+	-fx-background-image: url("/assets/image_fx12/background.jpg");
+	
+}
+
+
+Label {
+	-fx-font-size: 12;
+	-fx-font-weight: bold;
+	-fx-font-fill: #3B2716;
+	
+	
+}
+
+
+
+#welcome-text {
+	-fx-font-size: 35;
+	-fx-font-family: "Arial Black";
+	-fx-font-weight: bold;
+	-fx-text-fill: linear-gradient(to bottom, blue, white);
+	
+	
+}
+
+
+.button {
+	-fx-text-fill: #FCFBF9;
+	-fx-font-family: "Arial Narrow";
+	-fx-font-weight: bold;
+	-fx-background-color: linear-gradient(#FF882A,#2EE3AF);
+	
+}
+
+
+
+
+.button:hover {
+	-fx-background-color: linear-gradient(#2A5058,#61A2b1);
+	
+}
+
+
+
+.button:pressed {
+	-fx-background-color: linear-gradient(yellow,#61A2b1);
+	
+}
+

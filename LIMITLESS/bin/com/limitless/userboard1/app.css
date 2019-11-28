@@ -1,0 +1,43 @@
+/* 전체TextField */
+
+
+.root{
+	-fx-background-color: #FAE8D4;
+	
+}
+
+
+TextField {
+	-fx-background-color: #FBC4B4;
+}
+
+
+PasswordField {
+	-fx-background-color: #FBC4B4;
+}
+
+
+TableView {
+	-fx-background-color: #FBC4B4;
+}
+
+
+
+.button {
+	-fx-background-color: #FBD9B4;
+}
+
+
+
+
+.button:hover {
+	-fx-background-color: #FBC4B4;
+	
+}
+
+
+
+.button:pressed {
+	-fx-background-color: #FBC4B4;
+	
+}
