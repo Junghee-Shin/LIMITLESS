@@ -11,7 +11,7 @@
 선택한 재료를 바탕으로 레시피를 추천해주는 프로그램
 
 ## WBS
-![WBS](https://github.com/jhee10101/ZIMZALABIM/blob/master/ZIMZALABIM/document/image/WBS.PNG?raw=true)
+![WBS](https://github.com/jhee10101/LIMITLESS/blob/master/LIMITLESS/document/limitless_wbs.PNG)
 
 ## 프로젝트 아키텍처
 ### MVC
